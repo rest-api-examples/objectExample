@@ -4,8 +4,9 @@ Tutkitaan kuinka JavaScriptissä luodaan olio. JavaScriptissä voidaan luoda oli
 
 <ol>
 <li>Luo tiedosto nimeltään book.js</li>
-<li>Kopioi arrayExample:n bookArray kooditiedostoosi</li>
-<li>Luo tiedostoon objekti nimeltään student ja siihen metodit 
+<li>Luo tiedostoon object nimeltään **book** </li>
+<li>Kopioi arrayExample:n bookArray book objektin sisään</li>
+<li>Lisää objektiin metodit 
     <ul>
     <li>getAllBooks(), joka tulostaa koko bookArrayn konsolille</li>
     <li>getOneBook(x), joka tulostaa sille argumenttina(x:n arvo) annetun kirjan tiedot</li>
