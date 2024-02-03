@@ -1,6 +1,6 @@
 # objectExample
 
-Tutkitaan kuinka JavaScriptissä luodaan olio. JavaScriptissä voidaan luoda olio ilman, että ensin tarvitsee luoda luokka.
+Tutkitaan kuinka JavaScriptissä luodaan olio (object). JavaScriptissä voidaan luoda olio ilman, että ensin tarvitsee luoda luokka.
 
 <ol>
 <li>Luo tiedosto nimeltään book.js</li>
