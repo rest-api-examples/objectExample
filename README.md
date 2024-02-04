@@ -4,7 +4,7 @@ Tutkitaan kuinka JavaScriptissä luodaan olio (object). JavaScriptissä voidaan 
 
 <ol>
 <li>Luo tiedosto nimeltään book.js</li>
-<li>Luo tiedostoon object nimeltään **book** </li>
+<li>Luo tiedostoon object nimeltään <b>book</b> </li>
 <li>Kopioi arrayExample:n bookArray book objektin sisään</li>
 <li>Lisää objektiin metodit 
     <ul>
